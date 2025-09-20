@@ -1,0 +1,4 @@
+        # Gemini CLI added these lines to project's (should be in bundle's) services.yaml with bad indentation (one tab more than needed)
+        OurCMS\ShopBundle\Command\DeleteOldCartsCommand:
+        autoconfigure: true
+        tags: ['console.command']

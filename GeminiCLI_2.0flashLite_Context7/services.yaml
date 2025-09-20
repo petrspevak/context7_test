@@ -1,0 +1,10 @@
+# Gemini CLI placed it to (newly created) config directory in the bundle's root
+services:
+    _defaults:
+        autowire: true
+        autoconfigure: true
+        public: false
+
+    OurcmsShopBundle\Command\:
+        resource: "../src/Command"
+        tags: ['console.command']
