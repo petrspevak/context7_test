@@ -1,3 +1,5 @@
+![](./to_context.jpg)
+
 # Context7 test (reference materials for the blog article)
 
 **My humble test of Context7, an extension that provides relevant documentation to AI coding assistants.**
@@ -13,3 +15,12 @@
 ## The article
 - EN: [Does Context7 improve the output of AI tools for developers?](https://blog.spevak.eu/context7-test)
 - CZ: [Zlepšuje Context7 výstupy AI nástrojů pro vývojáře?](https://www.spevak.eu/article/context7-test)
+
+
+
+
+<br><br>
+---
+<br>
+
+![Logo](./logo.png)
