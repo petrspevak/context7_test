@@ -7,8 +7,10 @@
 ## Test date: 2025-08-14
 
 ## Information
+- The original project is built on PHP 8.4, Symfony 6.4 and Doctrine ORM.
 - You can resolve tool and model from the directory names.
-- Part of the right solution was to save a file with the command in `packages/ourcms-shop-bundle/src/Command`. If stored in the wrong place, it's mentioned in `note.md` file next to the file with command.
+- Part of the right solution was to save a file with the command in `packages/ourcms-shop-bundle/src/Command` in the project folder.
+- If stored in the wrong place, it's mentioned in `note.md` file next to the file with command.
 - In some solutions the repository class was also edited. If in the wrong place, it's also mentioned.
 - Excuse me for some comments and strings in the Czech language.
 
